@@ -1,1 +1,1 @@
-# Estrutura-de-dados-em-C-utilizando condicional.
+# Estrutura-de-dados-em-C
